@@ -12,7 +12,7 @@ Load sketch.ino
 ## Raspberry Pi
 Enable serial port on raspi-config.
 
-'''
+```
 pip3 install pyserial
 sudo chmod 777 /dev/serial0
-'''
+```
